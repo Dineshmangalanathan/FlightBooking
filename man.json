@@ -1,0 +1,376 @@
+{
+   "tickets":[
+      {
+         "location": "Berlin BER ",
+         "destination":"Japan AXT",
+         "date": "Sun, 31/3- Thu, 04/04",
+         "images":"../images/6E.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Abu Dhabi AUH ",
+         "destination":"London LHR",
+         "date": "Sun, 31/3- Thu, 04/04",
+         "images":"../images/airasia(3).jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Denmark AAL",
+         "destination":"Norway AES",
+         "date": "Sun, 31/3- Thu, 04/04",
+         "images":"../images/spicejet.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Scotland ABZ",
+         "destination":"Australia ADL",
+         "date": "Sun, 31/3- Thu, 04/04",
+         "images":"../images/thaiAir.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Egypt ALY",
+         "destination":"Greece AXD",
+         "date": "Sun, 31/3- Thu, 04/04",
+         "images":"../images/vistara.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Bahamas NSB",
+         "destination":"Spain LEI",
+         "date": "Sun, 31/03 - Thu, 04/04",
+         "images":"../images/airasia.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Bahamas NSB",
+         "destination":"Spain LEI",
+         "date": "Sun, 31/03 - Thu,04/04",
+         "images":"../images/airasia.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Bahamas NSB",
+         "destination":"Spain LEI",
+         "date": "Sun, 31/03 - Thu,04/04",
+         "images":"../images/airasia.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      },
+      {
+         "location": "Bahamas NSB",
+         "destination":"Spain LEI",
+         "date": "Sun, 31/03 - Thu,04/04",
+         "images":"../images/airasia.jpg",
+         "fDetails": "indiGo - Roundtip Economy",
+         "rate": "$3,096"
+      }
+   ],
+   "bookemirate":[
+      {
+         "images":"../images/destination01.png",
+         "place": "Emirates Flight to Mumbai",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination02.png",
+         "place": "Qatar Airways Fights to Dubai",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination03.png",
+         "place": "Singapore Airlines to Thiland",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination04.png",
+         "place": "Cathay Pacific Airways to Tokiyo",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination05.png",
+         "place": "Eqantas Airways to Austrailia",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination06.png",
+         "place": "EVA Air to Wasington DC",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination07.png",
+         "place": "Egypt Air to Las Vegas",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination08.png",
+         "place": "Indian Special Turkey Vacation",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      },
+      {
+         "images":"../images/destination09.png",
+         "place": "Middle East to Wasington DC",
+         "trip": "Boook your faviort itinary in best price",
+         "book":"Book Now"
+      }
+   ],
+   "newstate":[
+      {
+         "images":"../images/articles08.png",
+         "place": "New York, Unitesd States",
+         "book":"Get prices"
+      },
+      {
+         "images":"../images/articles11.png",
+         "place": "Naris,France",
+         "book":"Get prices"
+      },
+      {
+         "images":"../images/articles09.png",
+         "place": "Hamburg Speiicherstadt,Germany",
+         "book":"Get prices"
+      },
+      {
+         "images":"../images/articles04.png",
+         "place": "London,England",
+         "book":"Get prices"
+      },
+      {
+         "images":"../images/articles12.png",
+         "place": "Budapest,Hungary",
+         "book":"Get prices"
+      },
+      {
+         "images":"../images/articles06.png",
+         "place": "Bangkok,Thailand",
+         "book":"Get prices"
+      }
+   ],
+   "sample":[
+      {
+         "icon":"fa fa-plane",
+         "name":"Select your flight",
+         "tetx":"& tell us your preferences",
+         "num":"1"
+      },
+      {
+         "icon":"fa fa-trophy",
+         "name":"Get multiple fare deals",
+         "tetx":"from verified travel experts",
+         "num":"2"
+      },
+      {
+         "icon":"fa fa-sun-o",
+         "name":"Customize & book",
+         "tetx":"a perfect travel experience",
+         "num":"3"
+      }
+   ],
+   "solution":[
+      {
+         "images":"../images/Deals01.png",
+         "place": "London to New Delhi",
+         "trip": "Oneway Trip,Economy",
+         "from": "from",
+         "amount": "$  309 USD",
+         "photo":"../images/thaiAir.jpg",
+         "content":"Thai Airlines"
+      },
+      {
+         "images":"../images/Deals02.png",
+         "place": "Mumbai to Abu Dhabi",
+         "trip": "Oneway Trip,Economy",
+         "from": "from",
+         "amount": "$  159 USD",
+         "photo":"../images/vistara.jpg",
+         "content":"Vistara Airlines"
+      },
+      {
+         "images":"../images/Deals03.png",
+         "place": "New York to Londin",
+         "trip": "Oneway Trip,Economy",
+         "from": "from",
+         "amount": "$  209 USD",
+         "photo":"../images/spicejet.jpg",
+         "content":"Spicejet Airlines"
+      },
+      {
+         "images":"../images/Deals04.png",
+         "place": "Australia to Mumbai",
+         "trip": "Oneway Trip,Economy",
+         "from": "from",
+         "amount": "$  325 USD",
+         "photo":"../images/airasia.jpg",
+         "content":"Airasia Airlines"
+      }
+   ],
+   "listPlane":[
+      {
+         "img":"../images/6E.jpg",
+         "asia":"indiGo 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/spicejet.jpg",
+         "asia":"Spicejet SP-315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/vistara.jpg",
+         "asia":"Viastara 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/thaiAir.jpg",
+         "asia":"ThaiAir 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/6E.jpg",
+         "asia":"indiGo 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/vistara.jpg",
+         "asia":"Viastara 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/airasia.jpg",
+         "asia":"Airasia AE - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/spicejet.jpg",
+         "asia":"Spicejet SP-315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/vistara.jpg",
+         "asia":"Vistara 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      },
+      {
+         "img":"../images/thaiAir.jpg",
+         "asia":"ThaiAir 6E - 315",
+         "detl":"Flight Details",
+         "time":"07:20",
+         "timebe":"BER",
+         "length":"03h 15m",
+         "stop":"Non Stop",
+         "tim":"08:20",
+         "betim":"LHR",
+         "rate":"4755",
+         "butn":"select"
+      }
+   ],
+   "flash":[
+      {
+         "img":"../images/flihgt-offer03.png",
+         "deal":"Book a deal in selected flight",
+         "detl":"../images/spicejet.jpg"
+      },
+      {
+         "img":"../images/flihgt-offer04.png",
+         "deal":"Fresh Sale! Fare starting at $30",
+         "detl":"../images/thaiAir.jpg"
+      },
+      {
+         "img":"../images/flihgt-offer05.png",
+         "deal":"Flash Sale! upto 25% off",
+         "detl":"../images/vistara.jpg"
+      },
+      {
+         "img":"../images/flihgt-offer01.png",
+         "deal":"Flash Sale! Fares starting at $89",
+         "detl":"../images/6E.jpg"
+      }
+   ]
+}
